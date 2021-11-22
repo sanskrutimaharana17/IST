@@ -1,0 +1,21 @@
+            body {
+                background-image: url("img.jpeg");
+                background-repeat: no-repeat;
+                background-size: cover;
+                height: 100%;
+            }
+            
+            .container {
+                width: 11cm;
+                height: 1cm;
+                margin: 2 auto;
+                border-radius: 10px;
+                padding-bottom: 50px;
+                background-color: rgb(228, 227, 225);
+                justify-content: center;
+                color: black;
+            }
+            
+            h2 {
+                text-align: center;
+            }
